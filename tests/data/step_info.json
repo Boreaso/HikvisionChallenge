@@ -1,0 +1,173 @@
+{
+  "token": "eyJ0eXAiOiJKV1",
+  "notice": "step",
+  "match_status": 0,
+  "time": 1,
+  "UAV_we": [
+    {
+      "no": 0,
+      "type": "F1",
+      "x": 10,
+      "y": 20,
+      "z": 80,
+      "goods_no": -1,
+      "status": 0
+    },
+    {
+      "no": 1,
+      "type": "F1",
+      "x": 10,
+      "y": 20,
+      "z": 90,
+      "goods_no": 0,
+      "status": 0
+    },
+    {
+      "no": 2,
+      "type": "F1",
+      "x": 10,
+      "y": 30,
+      "z": 40,
+      "goods_no": 3,
+      "status": 0
+    },
+    {
+      "no": 3,
+      "type": "F1",
+      "x": 50,
+      "y": 20,
+      "z": 30,
+      "goods_no": 5,
+      "status": 0
+    },
+    {
+      "no": 4,
+      "type": "F1",
+      "x": 70,
+      "y": 20,
+      "z": 20,
+      "goods_no": -1,
+      "status": 1
+    }
+  ],
+  "we_value": 10000,
+  "UAV_enemy": [
+    {
+      "no": 0,
+      "type": "F1",
+      "x": 40,
+      "y": 20,
+      "z": 80,
+      "goods_no": -1,
+      "status": 0
+    },
+    {
+      "no": 1,
+      "type": "F1",
+      "x": 20,
+      "y": 20,
+      "z": 90,
+      "goods_no": 7,
+      "status": 0
+    },
+    {
+      "no": 2,
+      "type": "F1",
+      "x": 80,
+      "y": 30,
+      "z": 40,
+      "goods_no": -1,
+      "status": 0
+    },
+    {
+      "no": 3,
+      "type": "F1",
+      "x": 90,
+      "y": 20,
+      "z": 30,
+      "goods_no": -1,
+      "status": 0
+    },
+    {
+      "no": 4,
+      "type": "F1",
+      "x": 17,
+      "y": 20,
+      "z": 20,
+      "goods_no": -1,
+      "status": 1
+    },
+    {
+      "no": 5,
+      "type": "F1",
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "goods_no": -1,
+      "status": 2
+    }
+  ],
+  "enemy_value": 30000,
+  "goods": [
+    {
+      "no": 0,
+      "start_x": 3,
+      "start_y": 3,
+      "end_x": 98,
+      "end_y": 3,
+      "weight": 55,
+      "value": 100,
+      "start_time": 15,
+      "remain_time": 90,
+      "status": 1
+    },
+    {
+      "no": 1,
+      "start_x": 98,
+      "start_y": 13,
+      "end_x": 3,
+      "end_y": 3,
+      "weight": 51,
+      "value": 90,
+      "start_time": 15,
+      "remain_time": 9,
+      "status": 0
+    },
+    {
+      "no": 2,
+      "start_x": 15,
+      "start_y": 63,
+      "end_x": 81,
+      "end_y": 33,
+      "weight": 15,
+      "value": 20,
+      "start_time": 15,
+      "remain_time": 7,
+      "status": 0
+    },
+    {
+      "no": 3,
+      "start_x": 3,
+      "start_y": 3,
+      "end_x": 98,
+      "end_y": 3,
+      "weight": 55,
+      "value": 100,
+      "start_time": 15,
+      "remain_time": 330,
+      "status": 0
+    },
+    {
+      "no": 5,
+      "start_x": 3,
+      "start_y": 3,
+      "end_x": 98,
+      "end_y": 3,
+      "weight": 55,
+      "value": 100,
+      "start_time": 15,
+      "remain_time": 1,
+      "status": 0
+    }
+  ]
+}
